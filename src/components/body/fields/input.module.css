@@ -1,0 +1,44 @@
+.container_form form {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  gap: 3.1875rem;
+}
+
+.search_btn {
+  background-color: #fff;
+  border: 1px solid #164212;
+  border-radius: 0.625rem;
+  width: 20rem;
+  height: 2.5rem;
+  padding: 11px 0px 11px 7px;
+}
+
+.btn_container {
+  display: flex;
+  gap: 2.5rem;
+}
+
+.btn {
+  color: #fff;
+  font-weight: 600;
+  cursor: pointer;
+  font-size: 13px;
+  height: 1.875rem;
+  width: 8.75rem;
+  background-color: #164212;
+  border: 2px solid #164212;
+  border-radius: 1.875rem;
+}
+
+.btn:nth-child(2) {
+  color: #164212;
+  background-color: #fff;
+}
+
+.search_btn::placeholder {
+  color: #06060687;
+}
+.search_btn {
+  outline-color: #00420c;
+}

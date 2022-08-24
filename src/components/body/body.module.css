@@ -1,0 +1,16 @@
+.container {
+  width: 375px;
+}
+
+.wrapper {
+  padding-top: 5.4375rem;
+  display: flex;
+  flex-flow: column wrap;
+  gap: 6.25rem;
+
+  align-items: center;
+  margin-inline: auto;
+  width: 100%;
+  min-height: 100vh;
+}
+
