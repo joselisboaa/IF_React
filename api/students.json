@@ -1,0 +1,20 @@
+{
+  "students": [
+    {
+      "nome": "JOÃO VITE DA SILVA",
+      "cei": "29314929354259",
+      "matricula": "202220405050330",
+      "protocolo" : "20212045050231",
+      "status": "Deferido",
+      "email": "Joao.vite28@aluno.ifce.edu.br"
+    },
+    {
+      "nome": "MARIA VITE PEREIRA",
+      "cei": "53314534563636",
+      "matricula": "202220405050330",
+      "protocolo" : "20212045050231",
+      "status": "Indeferido",
+      "email": "Maria.vite05@aluno.ifce.edu.br"
+    }
+  ]
+}
